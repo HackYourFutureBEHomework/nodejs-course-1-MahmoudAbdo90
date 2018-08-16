@@ -1,0 +1,20 @@
+{
+  "name": "setup",
+  "version": "1.0.0",
+  "main": "node.js",
+  "scripts": {
+    "start": "nodemon node.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahmoud",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.8",
+    "v-number-to-words": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "description": ""
+}
