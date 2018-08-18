@@ -16,5 +16,13 @@
   "devDependencies": {
     "nodemon": "^1.18.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackYourFutureBelgium/nodejs-course-1-MahmoudAbdo90.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HackYourFutureBelgium/nodejs-course-1-MahmoudAbdo90/issues"
+  },
+  "homepage": "https://github.com/HackYourFutureBelgium/nodejs-course-1-MahmoudAbdo90#readme",
   "description": ""
 }
